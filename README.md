@@ -50,7 +50,7 @@ This project is licensed under the MIT License. For more information, please see
 - Inspired by Blinkit, the hyper-fast delivery service.
 - Thanks to the open-source community for their contributions to web development.
 
-Contact✔️🔴
+## Contact✔️🔴
 Enjoy building your Blinkit-inspired website! If you have any questions or need assistance, feel free to reach out to the project maintainers.
 @initialsandeep09@gmail.com
 
