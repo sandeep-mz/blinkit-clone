@@ -1,5 +1,4 @@
 
-
 .location>h5{
     color: rgb(0, 0, 0);
     font-weight: 800;
@@ -41,6 +40,7 @@
 .my-cart{
     background-color: #0d831e !important;
     font-size: 14px !important;
+    justify-content: space-between;
 }
 
 .my-categories{
@@ -53,33 +53,52 @@
 }
 .my-list{
     white-space: nowrap;
+    
 }
+.card-col{
+    padding-left: 26px;
+}
+
 
 .my-list>img{
     padding-inline: 10px;
+    padding-left: 0px;
+    padding-top: 15px;
 }
 
 ::-webkit-scrollbar{
     display: none;
 }
 
+
 .my-card{
     width: 179px;
     margin-inline:10px ;
-}
+    border-radius: 8px !important;
+    margin-left: auto;
 
+}
+.love-footer{
+    text-align: center;
+    font-weight: bolder;
+
+}
+.price-cut{
+    font-weight: bold;    
+    
+}
 .my-card-time{
     width: fit-content;
-    border-radius: 4px;
-    background-color: rgb(248, 248, 248);
+    border-radius: 10px;
+    background-color: rgb(244, 244, 244);
     padding: 0px 4px;
     font-weight: 700;
     font-size: 9px;
-    color: rgb(54, 54, 54);
+    color: rgb(39, 37, 37);
 }
 
 .my-card-title{
-    color: rgb(31, 31, 31);
+    color: rgb(0, 0, 0);
     font-weight: 600;
     font-size: 13px;
 }
@@ -87,6 +106,7 @@
 .my-card-weight{
     color: #666666;
     font-size: 13px;
+    font-weight: 100;
 }
 
 .card-price{
@@ -96,6 +116,7 @@
     line-height: 11px;
 }
 
+
 .mrp{
     color: #666666;
     font-size: 12px;
@@ -103,10 +124,12 @@
 .category-section{
     width: 85%;
     margin: auto;
+
 }
 .category-section-row{
     width: 100%;
     overflow-x: scroll;
+    
 }
 .my-footer{
     width: 85%;
@@ -193,6 +216,7 @@ td{
     .vertical-line,.hero-section>img{
         display: none !important;
     }
+    
     .nav-btns,.row-2>p,.search-div{
         width: 90%;
     }
@@ -209,3 +233,4 @@ td{
         margin-top: 10px;
     }
 }
+
