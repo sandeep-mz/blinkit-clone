@@ -140,6 +140,7 @@
     color: #666666;
     font-size: 15px;
     padding:10px;
+    cursor: pointer;
 }
 
 .row-2{
@@ -147,6 +148,7 @@
     justify-content: space-between;
     align-items: center;
     padding: 10px;
+    cursor: pointer;
 }
 .row-2>p{
     text-align: justify;
@@ -184,12 +186,14 @@
 
 .social{
     display: flex;
+    cursor: pointer;
 }
 
 .row-1{
     margin-top: 20px;
     display: flex;
     justify-content: space-between;
+    cursor: pointer;
 }
 
 .useful-links{
