@@ -41,10 +41,6 @@ You can deploy your Blinkit Website Clone project on GitHub Pages by following t
 3. Push your project's code files to the repository.
 4. Enable GitHub Pages in your repository settings to publish your website.
 
-## License
-
-This project is licensed under the MIT License. For more information, please see the [LICENSE](LICENSE) file.
-
 ## Acknowledgments
 
 - Inspired by Blinkit, the hyper-fast delivery service.
@@ -54,6 +50,6 @@ This project is licensed under the MIT License. For more information, please see
 Enjoy building your Blinkit-inspired website! If you have any questions or need assistance, feel free to reach out to the project maintainers.
 @initialsandeep09@gmail.com
 
-GITHUB LINK - 
+GITHUB LINK - https://github.com/sandeep-mz/blinkit-clone
 
 DEPLOYED LINK - https://sandeep-mz.github.io/blinkit-clone/
